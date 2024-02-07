@@ -90,9 +90,9 @@ the deliverable markdown file as a numbered list like this:
 
 #### Collaborative Installation Work
 
-- TODO: Find a partner to help you install python, git, and gatorgrade if
+- TODO: Find a partner to help you install sypder and git if
   you do not already have them installed.
-- TODO: If you have python, git, and gatorgrade locally on your computer,
+- TODO: If you have spyder and git locally on your computer,
   pair up with someone who does not yet have the tools.
 - TODO: write the name of your partner, and at least three steps you
   described/completed together to install programs using a Markdown list
