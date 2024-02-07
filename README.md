@@ -22,7 +22,7 @@ Data Organization and Transformation
 
 Make blog post in `blogpost.md` that compares data transformations in Google
 Sheets to those in a python notebook. Once you are done, tackle the installation
-process to get python 3, git, and gatorgrade on your system.
+process to get Spyder and git on your system.
 
 The purpose of this lab is to allow you to compare data transformations in
 Google sheets with transformation in a python notebook, and install
@@ -55,7 +55,7 @@ the deliverable markdown file as a numbered list like this:
 - TODO: Create a top-level heading in blogpost.md that says `Data Transformation in a Python Notebook`
 - TODO: Create an H2 heading in blogpost.md that says `References`
 - TODO: Create at least two other headings to keep your blog post organized and clear.
-- TODO: Open the following python notebook file in colab by clicking on the link [Colab: Installation Instructions](https://colab.research.google.com/github/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240202_lab03_data_transformation.ipynb)
+- TODO: Open the following python notebook file in colab by clicking on the link [Colab: Lab 3 - data transformation ipynb](https://colab.research.google.com/github/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240202_lab03_data_transformation.ipynb)
 - TODO: Click on the [save a copy in drive] button to save your changes into your google drive
 - TODO: Run the first block by pressing play button
 - TODO: Run the second block by pressing play button, and upload the `data.md` file from your computer
@@ -94,6 +94,9 @@ the deliverable markdown file as a numbered list like this:
   you do not already have them installed.
 - TODO: If you have spyder and git locally on your computer,
   pair up with someone who does not yet have the tools.
+- [Spyder IDE](https://www.spyder-ide.org/)
+- test for git in terminal by typing `git --version`. If you see nothing, install git
+- [git](https://git-scm.com/downloads)
 - TODO: write the name of your partner, and at least three steps you
   described/completed together to install programs using a Markdown list
   like this:
